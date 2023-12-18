@@ -1,0 +1,47 @@
+h1 {
+	text-align: center;
+	font-size: 50px;
+	font-family: sans-serif;
+}
+
+h4 {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+h5 {
+	font-family:times new roman;
+	font-size: 18px;
+
+}
+body {
+	font-family:times new roman;
+	font-size: 18px;
+	color: black;
+	background-color: white;
+	margin-left: 250px;
+	margin-right: 250px;
+}
+
+img {
+	width:100%;
+}
+
+.image-one{
+	max-width: 600px;
+	margin: auto;
+	align-content: center;
+}
+
+.image-two {
+	max-width: 600px;
+	margin: auto;
+	align-content: center;
+}
+
+.footer {
+	text-align: center;
+}
+
+@media (max-width: 700px)
+
